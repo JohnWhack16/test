@@ -1,0 +1,195 @@
+CRITICAL - 2025-09-16 18:29:27 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:29:35 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:30:54 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:37:43 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:37:49 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:42:25 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:43:45 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:43:46 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:43:46 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:43:54 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-001]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-001')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:43:57 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:44:10 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
+CRITICAL - 2025-09-16 18:44:51 --> ErrorException: Undefined array key "nofaktur"
+[Method: GET, Route: penjualan/view/fak-202403-002]
+in APPPATH\Views\penjualan\view.php on line 5.
+ 1 APPPATH\Views\penjualan\view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nofaktur"', 'C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php', 5)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\test\\app\\Views\\penjualan\\view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('penjualan/view', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(145): view('penjualan/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->view('fak-202403-002')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\test\\public\\index.php')
